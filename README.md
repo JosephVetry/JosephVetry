@@ -1,4 +1,4 @@
-![logo](https://github.com/JosephVetry/Joseph-Vetry/blob/main/banner.png)
+![logo](https://github.com/JosephVetry/JosephVetry/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Joseph Vetry</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia🇮🇩</h3>
