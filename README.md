@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **josefvetry220@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/cftFN](https://shorturl.at/cftFN)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/josephvetry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josephvetry" height="30" width="40" /></a>
